@@ -1,0 +1,14 @@
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.AssemblyInfoInputs.cache
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.AssemblyInfo.cs
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.csproj.CoreCompileInputs.cache
+/home/swikar/application dev/workshop 4/workshop 4/task 1/bin/Debug/net9.0/task 1
+/home/swikar/application dev/workshop 4/workshop 4/task 1/bin/Debug/net9.0/task 1.deps.json
+/home/swikar/application dev/workshop 4/workshop 4/task 1/bin/Debug/net9.0/task 1.runtimeconfig.json
+/home/swikar/application dev/workshop 4/workshop 4/task 1/bin/Debug/net9.0/task 1.dll
+/home/swikar/application dev/workshop 4/workshop 4/task 1/bin/Debug/net9.0/task 1.pdb
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.dll
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/refint/task 1.dll
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.pdb
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/task 1.genruntimeconfig.cache
+/home/swikar/application dev/workshop 4/workshop 4/task 1/obj/Debug/net9.0/ref/task 1.dll
